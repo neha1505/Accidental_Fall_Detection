@@ -1,0 +1,5 @@
+venv/
+.vscode/
+*.pyc
+__pycache__/
+fall_detection_rf/data/processed/labeled_sensor_data.csv
