@@ -6,10 +6,10 @@ An IoT-based wearable safety device designed to monitor real-time physical activ
 
 <b>Authors & Project Members</b>
 This is a group project designed and developed by:
-<b>Neha Susan Biju</b>
-<b>Neha Fathima.S</b>
-<b>Gayathri.S</b>
-<b>Vani A K</b>
+<b>Neha Susan Biju</b>,
+<b>Neha Fathima.S</b>,
+<b>Gayathri.S</b>,
+<b>Vani A K</b>.
 
 <b>Academic Guide:</b> Linu Paulose (Assistant Professor, Department of Computer Applications, MITS)  
 <b>Institution:</b> Muthoot Institute of Technology and Science (MITS)
